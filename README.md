@@ -1,6 +1,6 @@
 # Расписание работников — мод для Anime Shop Simulator
 
-![Anime Shop Simulator](https://img.shields.io/badge/Anime%20Shop%20Simulator-1.0.6-f6a800)
+![Anime Shop Simulator](https://img.shields.io/badge/Anime%20Shop%20Simulator-1.0.7-f6a800)
 ![Version](https://img.shields.io/badge/version-0.1.2-1685d1)
 ![WolfCore](https://img.shields.io/badge/requires-WolfCore-1685d1)
 ![MelonLoader](https://img.shields.io/badge/MelonLoader-0.7.3-7952b3)
@@ -50,10 +50,12 @@ Anime Shop Simulator\UserData\WolfEmployeeSchedules.settings.json
 
 ## Совместимость
 
-- Anime Shop Simulator `1.0.6`;
+- Anime Shop Simulator `1.0.7`;
 - MelonLoader `0.7.3`;
-- WolfCore `0.2.5`;
+- WolfCore `0.2.6`;
 - Windows x64, Unity IL2CPP.
+
+Версия 0.1.2 не потребовала изменений кода для 1.0.7. Проверены сборка на новых библиотеках и загрузка обработчиков; полный отдельный тест расписаний до открытия и после закрытия магазина пока не проводился.
 
 ## Если что-то не работает
 
